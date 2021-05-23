@@ -13,6 +13,7 @@ function work() {
   }
   }
 
+  
   ceil.addEventListener("click", work);
 
   document.body.innerHTML = '<h1>Hello</h1>'
